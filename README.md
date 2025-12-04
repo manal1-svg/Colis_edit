@@ -61,22 +61,22 @@ Le projet repose sur une architecture modulaire et robuste :
 ### 1. Page d'Accueil & Services
 Une interface accueillante présentant les services et le suivi rapide.
 *(Insérer ici Figure 3.1 ou 3.3 du rapport)*
-`![Page d'Accueil](chemin/vers/image_home.png)`
+`![Page d'Accueil](screenshots/image_home.png)`
 
 ### 2. Dashboard Client & Suivi
 L'espace personnel permettant de gérer les envois.
 *(Insérer ici Figure 3.11 ou 3.14 du rapport)*
-`![Dashboard Client](chemin/vers/dashboard_client.png)`
+`![Dashboard Client](screenshots/dashboard_client.png)`
 
 ### 3. Interface Livreur
 Gestion des colis en attente et prise en charge.
 *(Insérer ici Figure 3.34 ou 3.35 du rapport)*
-`![Interface Livreur](chemin/vers/interface_livreur.png)`
+`![Interface Livreur](screenshots/interface_livreur.png)`
 
 ### 4. Dashboard Admin
 Statistiques globales et gestion des utilisateurs.
 *(Insérer ici Figure 3.27 du rapport)*
-`![Dashboard Admin](chemin/vers/dashboard_admin.png)`
+`![Dashboard Admin](screenshots/dashboard_admin.png)`
 
 ---
 
